@@ -1,13 +1,13 @@
 # Photoshop Script Save JPEG 
 Saving multiple psd, jpeg file
 
-###EN
+### EN
 You can select more than one psd and jpeg with the original name can be saved in the desired settings.
 
-###TR
+### TR
 Birden fazla psd ve jpeg dosyalarını orjinal ismi ile istediğiniz ayalarda kaydetebilirsiniz.
 
-####Javascript　
+#### Javascript　
 ```javascript
   // get all the files to process
  var inFolder = Folder.selectDialog("Please select folder to process");

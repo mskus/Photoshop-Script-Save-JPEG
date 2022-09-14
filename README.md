@@ -5,7 +5,7 @@ Saving multiple psd, jpeg file
 You can select more than one psd and jpeg with the original name can be saved in the desired settings.
 
 ### TR
-Birden fazla psd ve jpeg dosyalarını orjinal ismi ile istediğiniz ayalarda kaydetebilirsiniz.
+Birden fazla psd ve jpeg dosyalarını orjinal ismi ile istediğiniz ayalarda kaydedebilirsiniz.
 
 #### Javascript　
 ```javascript
